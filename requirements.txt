@@ -7,7 +7,7 @@ tensorboard
 torch==1.12.1
 torchvision
 unidecode
-pyopenjtalk==0.3.0.dev2
+openjtalk==0.3.0.dev2
 protobuf
 tqdm
 pypinyin
